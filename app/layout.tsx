@@ -21,7 +21,7 @@ export const metadata = {
   ],
 
   metadataBase: new URL(
-    "https://yourwebsite.vercel.app"
+    "https://almora-tourism.vercel.app/"
   ),
     alternates: {
     canonical: "/",
@@ -33,7 +33,7 @@ export const metadata = {
     description:
       "Explore beautiful places, cafes, temples, and travel guides in Almora.",
 
-    url: "https://yourwebsite.vercel.app",
+    url: "https://almora-tourism.vercel.app/",
 
     siteName: "Almora Tourism",
 

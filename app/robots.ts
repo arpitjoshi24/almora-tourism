@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
     },
 
     sitemap:
-      "https://yourwebsite.vercel.app/sitemap.xml",
+      "https://almora-tourism.vercel.app/sitemap.xml",
   };
 }

@@ -9,7 +9,7 @@ export default function StructuredData() {
     description:
       "Travel guide website for Almora tourism, temples, cafes, and hidden places.",
 
-    url: "https://yourwebsite.vercel.app",
+    url: "https://almora-tourism.vercel.app/",
   };
 
   return (
