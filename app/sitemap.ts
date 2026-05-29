@@ -3,7 +3,7 @@ import places from "@/data/places";
 import blogs from "@/data/blogs";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://almora-tourism.vercel.app/p";
+  const baseUrl = "https://almora-tourism.vercel.app/";
 
   const placeUrls = places.map((place) => ({
     url: `${baseUrl}/places/${place.slug}`,
